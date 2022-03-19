@@ -1,0 +1,38 @@
+.slider__title {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.slider__range {
+  width: 100%;
+}
+
+.slider-number {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+
+  &__input {
+    -webkit-appearance: none;
+    width: 129px;
+    height: 39px;
+    background-color: #fff;
+    color: #c5c6ca;
+    border: 1px solid #ececec;
+    font-family: 'Gotham Pro';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    outline: none;
+
+    &::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+    }
+
+    &::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+    }
+  }
+}

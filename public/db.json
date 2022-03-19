@@ -1,0 +1,175 @@
+{
+  "games":[
+    {
+      "id":1,
+      "name":"DARK SOULS™ II: Scholar of the First Sin",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/335300/header.jpg?t=1579637578",
+      "price":301,
+      "category":"Action"
+    },
+    {
+      "id":2,
+      "name":"PLAYERUNKNOWN'S BATTLEGROUNDS",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1580431695",
+      "price":945,
+      "category":"Action"
+    },
+    {
+      "id":3,
+      "name":"DARK SOULS™ III",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/374320/header.jpg?t=1580261002",
+      "price":535,
+      "category":"Action"
+    },
+    {
+      "id":4,
+      "name":"Terraria",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/105600/header.jpg?t=1580749807",
+      "price":163,
+      "category":"Strategy"
+    },
+    {
+      "id":5,
+      "name":"Stellaris - Galaxy Edition",
+      "images":"https://fanatical.imgix.net/product/original/1f7570df-234b-4d11-9650-ce088d6529c4.jpg?auto=compress,format&w=400&fit=crop&h=",
+      "price":215,
+      "category":"Strategy"
+    },
+    {
+      "id":6,
+      "name":"Fallout 4",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/377160/header.jpg?t=1580261004",
+      "price":295,
+      "category":"Strategy"
+    },
+    {
+      "id":7,
+      "name":"Pop it, Please!",
+      "images":"https://cdn.akamai.steamstatic.com/steam/apps/1684900/header.jpg?t=1627025725",
+      "price":3,
+      "category":"Strategy"
+    },
+    {
+      "id":8,
+      "name":"DIRT RALLY",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/310560/header.jpg?t=1580260997",
+      "price":37,
+      "category":"Гонки"
+    },
+    {
+      "id":9,
+      "name":"GRID 2",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/44350/header.jpg?t=1580260973",
+      "price":33,
+      "category":"Гонки"
+    },
+    {
+      "id":10,
+      "name":"Rocket League 2",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/252950/header.jpg?t=1580861673",
+      "price":2470,
+      "category":"Гонки"
+    },
+    {
+      "id":11,
+      "name":"DOOM",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/379720/header.jpg?t=1580642619",
+      "price":209,
+      "category":"Strategy"
+    },
+    {
+      "id":12,
+      "name":"Mortal Kombat X",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/307780/header.jpg?t=1580534165",
+      "price":245,
+      "category":"Action"
+    },
+    {
+      "id":13,
+      "name":"Far Cry® 3",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/220240/header.jpg?t=1580867670",
+      "price":299,
+      "category":"Action"
+    },
+    {
+      "id":14,
+      "name":"Grand Theft Auto: Vice City",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/12110/header.jpg?t=1580260967",
+      "price":138501,
+      "category":"Action"
+    },
+    {
+      "id":15,
+      "name":"Dead by Daylight 2",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/381210/header.jpg?t=1580501482",
+      "price":380,
+      "category":"Action"
+    },
+    {
+      "id":16,
+      "name":"Dying Light",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/239140/header.jpg?t=1580741036",
+      "price":296,
+      "category":"RGP"
+    },
+    {
+      "id":17,
+      "name":"Regions Of Ruin Light",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/680360/header.jpg?t=1580809906",
+      "price":84,
+      "category":"RGP"
+    },
+    {
+      "id":18,
+      "name":"The Elder Scrolls V: Skyrim",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/72850/header.jpg?t=1580507116",
+      "price":444,
+      "category":"RGP"
+    },
+    {
+      "id":19,
+      "name":"Mount & Blade II: Bannerlord",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/261550/header.jpg?t=1580472700",
+      "price":1341,
+      "category":"RGP"
+    },
+    {
+      "id":20,
+      "name":"7 Days to Die",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/251570/header.jpg?t=1580512314",
+      "price":340,
+      "category":"RGP"
+    },
+    {
+      "id":21,
+      "name":"Unexplored",
+      "images":"https://steamcdn-a.akamaihd.net/steam/apps/506870/header.jpg?t=1579525080",
+      "price":41,
+      "category":"RGP"
+    }
+    
+  ],
+  "genres":[
+    {
+      "id":1,
+      "title":"Action",
+      "checked":false,
+      "label":"DARK SOULS™ II: Scholar of the First Sin"
+    },
+    {
+      "id":2,
+      "title":"Strategy",
+      "checked":false
+    },
+    {
+      "id":3,
+      "title":"Гонки",
+      "checked":false
+    },
+    {
+      "id":4,
+      "title":"RGP",
+      "checked":false
+    }
+  ]
+}

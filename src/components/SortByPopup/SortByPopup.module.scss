@@ -1,0 +1,43 @@
+.sort {
+  position: absolute;
+  margin-top: -60px;
+
+  &__inner {
+    position: relative;
+    left: 40%;
+    width: 60%;
+    padding: 10px;
+    z-index: 1000;
+    background-color: rgb(245, 245, 245);
+  }
+
+  &__active {
+    width: 100%;
+    font-weight: bold;
+    margin-left: 7px;
+    cursor: pointer;
+  }
+
+  &__btn {
+    font-size: 14px;
+    font-family: 'Gotham Pro';
+    color: #ff5a05;
+    height: 42px;
+    width: 220px;
+    border-radius: 23px;
+    border: 1px solid #ff5a05;
+    font-weight: 600;
+    background-color: transparent;
+    margin-left: 20px;
+  }
+
+  &__item {
+    font-size: 14px;
+    padding: 7px;
+    cursor: pointer;
+
+    &:hover {
+      background-color: #ccc;
+    }
+  }
+}

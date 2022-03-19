@@ -1,0 +1,24 @@
+.genres {
+  width: 100%;
+  border: 1px solid #eee;
+  background-color: #f4f4f4;
+  padding: 35px 20px;
+
+  &__btn {
+    margin-top: 20px;
+    width: 129px;
+    height: 45px;
+    font-family: 'Gotham Pro';
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 42px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    display: block;
+    text-align: center;
+    background-color: #fff;
+    text-decoration: none;
+    transition: 0.5s;
+    border: 2px solid #ff5a05;
+  }
+}
