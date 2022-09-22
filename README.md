@@ -14,9 +14,9 @@
 
 ## Demo 
 ​
-[GamesHub](https://github.com/amirkhan-web05/gameshub/blob/main/src/assets/images/gameshub.png)
+[GamesHub](https://drive.google.com/drive/folders/1ywhQP955UI-Owfkb1mawW5DEnos2D1nL)
 
-![Preview](https://drive.google.com/drive/folders/1ywhQP955UI-Owfkb1mawW5DEnos2D1nL, "GamesHub")
+![Preview](https://github.com/amirkhan-web05/gameshub/blob/main/src/assets/images/gameshub.png "GamesHub")
 
 <h1>Описание</h1>
 
