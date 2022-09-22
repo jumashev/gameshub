@@ -1,4 +1,4 @@
-import { TypeData, Types } from './../types/index';
+import { TypeData, Types, TypeSorting } from './../types/index';
 
 type TypeSortingLimit = {
   sortBy: {
